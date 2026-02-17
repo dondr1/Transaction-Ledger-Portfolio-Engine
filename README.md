@@ -8,7 +8,7 @@ Built using **Java 17, Spring Boot, PostgreSQL, and Docker**, this project demon
 
 ## 🏗 Architecture Diagram
 
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](/ledger/docs/architecture.png)
 
 ---
 
